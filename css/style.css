@@ -1,0 +1,37 @@
+/* Heading CSS */
+
+h1   {color: black;margin: 20px;font-size:32px;font-family: "Tahoma"}
+h2   {color:  #ba3131;margin: 20px;font-size:24px;font-family: "Bookman"}
+h3   {color:  #404041;margin: 20px;font-size:18px; font-family: "Bookman"}
+
+/* CLass 1 */
+.Class1{
+    font-family: "Bookman";
+    background-color: #b3b3b8;
+    color: #ba3131;
+    border: 1px solid #404041;
+    margin: 20px;
+    padding: 20px;
+  }
+
+/* CLass 2 */
+  .Class2{
+    font-family: "Bookman";
+    background-color: #b3b3b8;
+    color: wblack;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+
+/* CLass 3 */
+  .Class3{
+    font-family: "Bookman";
+    background-color: White;
+    color: wblack;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
